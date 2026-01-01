@@ -20,7 +20,12 @@ Supported small business environments by deploying, configuring, and maintaining
 - Ensured consistent setup standards across systems
 
 # Skills Demonstrated
+- Hardware Support
+- Desktop Support
+- Device Configuration
+- Preventative Maintenance
 
+# STAR Narrative
 ## Situation
 Small business required new and upgraded workstations to support daily operations.
 
